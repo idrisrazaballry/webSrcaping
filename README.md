@@ -76,4 +76,3 @@ For `flipkart.ipynb`, you'll also need:
 - Browser automation with Selenium (`find_element`, `find_elements`, clicks, key input)
 - Pagination handling in both scraping methods
 - Exporting scraped data to Excel using pandas
-
